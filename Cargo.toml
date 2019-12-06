@@ -1,0 +1,6 @@
+[package]
+name = 'advent_2019'
+version = '0.0.0'
+authors = ['khazhyk <khazhy@gmail.com>']
+
+description = 'advent of code memes'
